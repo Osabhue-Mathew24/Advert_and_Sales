@@ -1,11 +1,11 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib as plt
+#import matplotlib as plt
 import joblib
 import warnings
 warnings.filterwarnings('ignore')
-import plotly.express as px
+#import plotly.express as px
 
 data = pd.read_csv('AdvertAndSales.csv')
 

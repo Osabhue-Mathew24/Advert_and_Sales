@@ -8,7 +8,7 @@ Businesses invest heavily in advertising across multiple channels but often stru
 
 Dataset
 
-The dataset (AdvertAndSales.csv) contains 4,572 rows with the following columns:
+The dataset [(AdvertAndSales.csv)](https://github.com/Osabhue-Mathew24/Advert_and_Sales/blob/main/AdvertAndSales.csv) contains 4,572 rows with the following columns:
 
 
 TV — advertising expenditure on TV
